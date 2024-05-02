@@ -15,11 +15,9 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     
         import bab64_enc
-    else:
-        import bab64_enc
+    
  
 elif bit == '32bit':
     
         import bab1_enc
-    else:
-        import bab1_enc
+    
