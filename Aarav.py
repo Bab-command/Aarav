@@ -14,7 +14,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import tata1_enc
+        import tata3_enc
     
  
 elif bit == '32bit':
