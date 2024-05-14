@@ -14,7 +14,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import Aarav_enc
+        import Aaara_enc
     
  
 elif bit == '32bit':
