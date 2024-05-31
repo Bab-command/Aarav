@@ -19,5 +19,5 @@ if bit == '64bit':
  
 elif bit == '32bit':
     
-        import bab1_enc
+        import tata1_enc
     
