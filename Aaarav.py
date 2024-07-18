@@ -14,7 +14,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import Bab1_enc
+        import Hamza_enc
     
  
 elif bit == '32bit':
